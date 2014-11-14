@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
-*stuff
-*Data
+* stuff
+* Data
